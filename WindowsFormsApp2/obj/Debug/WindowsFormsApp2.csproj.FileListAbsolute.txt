@@ -1,0 +1,17 @@
+A:\C#\THUC_TAP\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+A:\C#\THUC_TAP\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+A:\C#\THUC_TAP\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+A:\C#\THUC_TAP\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+A:\C#\THUC_TAP\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+A:\C#\THUC_TAP\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+A:\C#\THUC_TAP\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+A:\C#\THUC_TAP\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+A:\C#\THUC_TAP\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+A:\C#\THUC_TAP\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+A:\C#\THUC_TAP\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.themlich.resources
+A:\C#\THUC_TAP\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.xem_xoa_lich.resources
+A:\C#\THUC_TAP\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.admin_1.resources
+A:\C#\THUC_TAP\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.admin_1_them.resources
+A:\C#\THUC_TAP\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.admin_1_xem_xoa.resources
+A:\C#\THUC_TAP\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.nhanvien_1.resources
+A:\C#\THUC_TAP\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.nhanvien_1_xem.resources
